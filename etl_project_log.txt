@@ -1,0 +1,12 @@
+[2024-12-25 19:33:33] ETL process started
+[2024-12-25 19:33:33] Starting data extraction
+[2024-12-25 19:33:36] Data extraction completed successfully
+[2024-12-25 19:33:36] Starting data transformation
+[2024-12-25 19:33:36] Data transformation completed successfully
+[2024-12-25 19:33:36] Saving data to CSV file at Countries_by_GDP.csv
+[2024-12-25 19:33:36] Data successfully saved to CSV
+[2024-12-25 19:33:36] Saving data to database table 'Countries_by_GDP'
+[2024-12-25 19:33:36] Data successfully saved to database table 'Countries_by_GDP'
+[2024-12-25 19:33:36] Running query on the database
+[2024-12-25 19:33:36] Query executed successfully
+[2024-12-25 19:33:36] ETL process completed successfully
